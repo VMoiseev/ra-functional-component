@@ -1,3 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/radkxgxr62bkf3kv?svg=true)](https://ci.appveyor.com/project/VMoiseev/ra-functional-component)
+## [Проект](https://vmoiseev.github.io/ra-functional-component/)
+
 Страница интернет-магазина
 ===
 
